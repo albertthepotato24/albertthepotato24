@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Heinrich-git-hub
-- 👀 I’m interested in ML, DL, Webapps and System Designs
-- 🌱 I’m currently learning CS
-- 📫 How to reach me aungkyawhtet.social@gmail.com
+A ML enthusiast and a current CS student
+Interested in ML, DL, Webapps and System Designs
+Happy to work with partners
 
 <!---
 Heinrich-git-hub/Heinrich-git-hub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

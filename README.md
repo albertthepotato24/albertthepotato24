@@ -1,5 +1,5 @@
 A ML enthusiast and a current CS student
-Interested in ML, DL, Webapps and System Designs
+Interested in ML, DL, Webapps, System Designs
 Happy to work with partners
 
 <!---
